@@ -10,7 +10,7 @@ public class TrainBookingSystem {
         System.out.println("Welcome to the Train Booking System!");
 
         do {
-            System.out.println("\n1. View Available Seats");
+            System.out.println("\n1.Available Seats");
             System.out.println("2. Book a Seat");
             System.out.println("3. Exit");
             System.out.print("Enter your choice: ");
